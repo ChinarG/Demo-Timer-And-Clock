@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Chinar/Scenes/Demo1-\u7535\u5B50\u8868.unity"
+  isLoaded: 1
+  isActive: 1
